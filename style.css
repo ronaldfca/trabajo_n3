@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(236, 229, 229);
+}
+
+div {
+    margin: 25px;
+    float: left;
+}
+
+table, tr, td, th {
+    border: solid black 1.5px;
+}
+
+#datos { 
+    border-collapse: collapse;
+    margin: 25px 0; 
+    font-size: lem; 
+    font-family: sans-serif; 
+    min-width: 450px; 
+    box-shadow: 0 0 20px rgb(0, 0, 0.15);
+    background-color: aliceblue;
+    text-align: center;
+    margin: 15px;
+}    
+
+#titulosdatos {
+    background-color: #980081;
+    color: black;
+    text-align: center;
+    margin: 15px;
+}
+
+#head {
+    margin-left: 150px;
+    text-shadow: rgb(0, 0, 0.15);
+    text-decoration-line: underline;
+    width: 80%;
+    padding: 10px;
+    box-shadow: 0 0 20px rgb(0, 0, 0.15);
+}
+
+#foto{
+    margin: 10px;
+    border: solid black 2px;
+    
+}
+
+#foter {
+    left: 0;
+    bottom: 0;
+    width: 95%;
+    background-color: #980081;
+    color: white;
+    text-align: center;
+}
+
+
